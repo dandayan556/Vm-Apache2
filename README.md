@@ -20,18 +20,4 @@ https://github.com/matbuha/vm-apache2
 
    192.168.33.10
 
-And your in!
-
-Congratulations!  
-  
-
-<a href="https://github.com/dandayan556" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/dandayan556/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
+And your in!!
