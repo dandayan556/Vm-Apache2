@@ -1,10 +1,4 @@
-## Hey ! I'm Ariel👋  
-  
-
-
-
 ### Creating an apache2 HTTP server ready to use with a DEMO site in 5 simple steps!  
-Hi there!
 This Apache2 server is already configuered and ready to use as a DevOps method,
 all you need to do is:
 1. Download & install a VirtualBox, you can download it here:
